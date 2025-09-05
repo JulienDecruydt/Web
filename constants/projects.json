@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Suzuki France",
+        "company": "Suzuki",
+        "logo": "suzuki.png",
+        "description": "Official website for Suzuki France with modern design, vehicle catalog, and dealer locator functionality.",
+        "background": "suzuki-fr-new.jpg",
+        "isImage": true,
+        "year": "2022",
+        "link": "https://www.suzuki.fr/",
+        "tags": ["Vue.js", "Nuxt.js", "Tailwind CSS"]
+    },
+    {
+        "name": "Suzuki Concession",
+        "company": "Suzuki",
+        "logo": "suzuki.png",
+        "description": "Website for Suzuki dealers of Suzuki cars.",
+        "background": "suzuki-concession-fond.jpg",
+        "isImage": true,
+        "year": "2022",
+        "link": "https://www.suzuki.fr/concession/",
+        "tags": ["Vue.js", "Nuxt.js", "Tailwind CSS"]
+    },
+    {
+        "name": "Suzuki Care",
+        "company": "Suzuki",
+        "logo": "suzuki.png",
+        "description": "Digital platform for dealerships to manage service estimates, repairs, and maintenance scheduling efficiently.",
+        "background": "linear-gradient(62deg, #de033a 0%, #013790 100%)",
+        "isImage": false,
+        "year": "2023",
+        "link": "#",
+        "tags": ["Vue.js", "Nuxt.js", "Tailwind CSS"]
+    },
+    {
+        "name": "Novaseo",
+        "company": "Novaseo",
+        "logo": "logo-blanc_novaseo-1.png",
+        "description": "SaaS platform providing comprehensive SEO tools and analytics for their clients.",
+        "background": "novaseo-fond.jpg",
+        "isImage": true,
+        "year": "2018",
+        "link": "#",
+        "tags": ["Vue.js", "Python", "Django", "Tailwind CSS"]
+    },
+    {
+        "name": "Novavocat",
+        "company": "Novaseo",
+        "logo": "novavocat-logo.png",
+        "description": "Legal consultation platform connecting clients with qualified lawyers through an intuitive Q&A system.",
+        "background": "novavocat-fond.jpg",
+        "isImage": true,
+        "year": "2019",
+        "link": "#",
+        "tags": ["Vue.js", "Nuxt.js", "Django", "Tailwind CSS"]
+    },
+    {
+        "name": "Quai38",
+        "company": "Quai38",
+        "logo": "quai38-logo-white.svg",
+        "description": "Restaurant website featuring menu showcase, reservation system, and location information.",
+        "background": "quai38-fond.jpg",
+        "isImage": true,
+        "year": "2018",
+        "link": "#",
+        "tags": ["Vue.js", "Nuxt.js", "Sass"]
+    }
+] 

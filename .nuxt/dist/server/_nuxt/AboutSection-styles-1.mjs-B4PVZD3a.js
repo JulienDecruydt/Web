@@ -1,0 +1,5 @@
+const AboutSection_vue_vue_type_style_index_0_scoped_4da03daf_lang = ".social-icon[data-v-4da03daf]{align-items:center;-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);background:linear-gradient(145deg,#ffffff0d,#ffffff03);border:1px solid hsla(0,0%,100%,.1);border-radius:12px;color:#ffffffb3;display:flex;height:44px;justify-content:center;text-decoration:none;transition:all .3s ease;width:44px}.social-icon[data-v-4da03daf]:hover{background:linear-gradient(145deg,#ffffff14,#ffffff05);border-color:#6366f14d;box-shadow:0 10px 30px #0003;color:#fff;transform:translateY(-2px)}.bg-avatar-gradient[data-v-4da03daf]{background:linear-gradient(135deg,var(--purple) 0,var(--light-purple) 100%);box-shadow:0 10px 30px #6366f14d}.text-primary[data-v-4da03daf]{color:var(--maya-blue)}.about-content[data-v-4da03daf],.about-content div[data-v-4da03daf],.about-content h1[data-v-4da03daf],.about-content h2[data-v-4da03daf],.about-content p[data-v-4da03daf]{text-align:left!important}";
+export {
+  AboutSection_vue_vue_type_style_index_0_scoped_4da03daf_lang as default
+};
+//# sourceMappingURL=AboutSection-styles-1.mjs-B4PVZD3a.js.map
